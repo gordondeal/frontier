@@ -1,0 +1,1 @@
+mask_index = sTowerLT_mask;

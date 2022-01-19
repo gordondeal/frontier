@@ -1,0 +1,1 @@
+lightRadius = 64;

@@ -1,0 +1,1 @@
+menuText[mp.load] = "Load";

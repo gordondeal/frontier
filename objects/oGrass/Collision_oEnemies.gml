@@ -1,0 +1,1 @@
+image_index = random(image_number - 1);
